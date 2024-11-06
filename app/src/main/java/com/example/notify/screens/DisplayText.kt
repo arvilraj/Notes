@@ -60,7 +60,7 @@ fun DisplayText(viewModel: NoteViewModel,
                         onDismiss() // Close the dialog after saving
                     }
                 ) {
-                    Text(text = "Save Note")
+                    Text(text = "Save")
                 }
             },
             dismissButton = {
